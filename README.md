@@ -20,7 +20,7 @@ Welcome to the repository for my Object-Oriented Programming with Python course.
 ## Requirements
 
 - Python 3.x
-- Any additional libraries or dependencies will be listed in the respective project directories.
+- Any additional libraries or dependencies will be listed in the respective lab directories.
 
 ## License
 
