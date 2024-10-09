@@ -15,7 +15,7 @@ Welcome to the repository for my Object-Oriented Programming with Python course.
     git clone https://github.com/mel-edo/Python-sem3.git
     ```
 
-2) Navigate and check out all the ipynb files
+2) Navigate and check out all the ipynb and py files
 
 ## Requirements
 
